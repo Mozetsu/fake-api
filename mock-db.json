@@ -1,0 +1,391 @@
+{
+    "locations": [
+        {
+            "id": 95144,
+            "locationId": "HOM49XD6",
+            "locationName": "Non Seq - Amit's workspace",
+            "locationDetails": "",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "Geng Road",
+                "addressLine2": "",
+                "city": "Palo Alto",
+                "state": "CA",
+                "zip": "94303"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.119496,
+            "latitude": 37.451601
+        },
+        {
+            "id": 82809,
+            "locationId": "BUS134NE",
+            "locationName": "Validate Workspace White Screen",
+            "locationDetails": "Validate Workspace White Screen",
+            "locationType": "Business",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "addressLine2": "",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.418823,
+            "latitude": 37.774538
+        },
+        {
+            "id": 77752,
+            "locationId": "HOMEDJ8B",
+            "locationName": "Report Testing",
+            "locationDetails": "Report Testing",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "6463 Calle Esperanza",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94566"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -121.903796,
+            "latitude": 37.671177
+        },
+        {
+            "id": 50471,
+            "locationId": "GENDBKXF",
+            "locationName": "R5Labs HQ",
+            "locationDetails": "R5Labs",
+            "locationType": "General",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "901 Jefferson Avenue",
+                "addressLine2": "",
+                "city": "Redwood City",
+                "state": "CA",
+                "zip": "94063"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.228098,
+            "latitude": 37.484759
+        },
+        {
+            "id": 96423,
+            "locationId": "HOMHJME5",
+            "locationName": "Validate new Workspace",
+            "locationDetails": "Validate new Workspace",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "5300 No. 3 Road",
+                "addressLine2": "",
+                "city": "Richmond",
+                "state": "BC",
+                "zip": "V6X 2C7"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -123.132426,
+            "latitude": 49.175572
+        },
+        {
+            "id": 39878,
+            "locationId": "HOTZ6Y3X",
+            "locationName": "Marriott Workspace",
+            "locationDetails": "Marriott Workspace",
+            "locationType": "Hotel",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "addressLine2": "",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.418846,
+            "latitude": 37.774611
+        },
+        {
+            "id": 96586,
+            "locationId": "HOM9O733",
+            "locationName": "Test self assigned",
+            "locationDetails": "",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "175 Cuesta Drive",
+                "addressLine2": "",
+                "city": "San Luis Obispo",
+                "state": "CA",
+                "zip": "93405"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -120.67699,
+            "latitude": 35.295125
+        },
+        {
+            "id": 23201,
+            "locationId": "ABB0T7VO",
+            "locationName": "test group manager",
+            "locationDetails": "test group manager air bnb",
+            "locationType": "Airbnb",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "654 Grove Street",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false
+        },
+        {
+            "id": 94018,
+            "locationId": "HOMKCVBP",
+            "locationName": "Validate Reports with Shailaja",
+            "locationDetails": "Validate Reports with Shailaja",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "5338 Joseph Lane",
+                "addressLine2": "",
+                "city": "San Jose",
+                "state": "CA",
+                "zip": "95118"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -121.899795,
+            "latitude": 37.24374
+        },
+        {
+            "id": 36065,
+            "locationId": "GENYO502",
+            "locationName": "Validating Emails",
+            "locationDetails": "Validating Emails",
+            "locationType": "General",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "5388 Joseph Lane",
+                "addressLine2": "",
+                "city": "San Jose",
+                "state": "CA",
+                "zip": "95118"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -121.899035,
+            "latitude": 37.242697
+        },
+        {
+            "id": 68534,
+            "locationId": "GEN69R3F",
+            "locationName": "Validate Detail Page Button",
+            "locationDetails": "Task Detail Page",
+            "locationType": "General",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "addressLine2": "",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.418823,
+            "latitude": 37.774538
+        },
+        {
+            "id": 42066,
+            "locationId": "HOMD0FV7",
+            "locationName": "Test group manager SMS",
+            "locationDetails": "test group manager SMS",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "1717 Harrison Street",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94103"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.412928,
+            "latitude": 37.768452
+        },
+        {
+            "id": 44451,
+            "locationId": "HOMH3V0E",
+            "locationName": "Test Group Manager",
+            "locationDetails": "Test Group Manager",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "789 Buena Vista Avenue West",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94117"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.443782,
+            "latitude": 37.768831
+        },
+        {
+            "id": 84855,
+            "locationId": "HOM6VI98",
+            "locationName": "test comp association",
+            "locationDetails": "",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "1863 Mission Street",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94103"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.419687,
+            "latitude": 37.767339
+        },
+        {
+            "id": 91343,
+            "locationId": "HOMZEXLH",
+            "locationName": "Validate Template Group ",
+            "locationDetails": "Validate Template Group ",
+            "locationType": "Personal",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "addressLine2": "",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": true,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.41877,
+            "latitude": 37.774551
+        },
+        {
+            "id": 75362,
+            "locationId": "GEN9HQ2V",
+            "locationName": "Workspace Comment Validation",
+            "locationDetails": "Workspace Comment Validation",
+            "locationType": "General",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "addressLine2": "",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": true,
+            "subscriptionActive": false,
+            "longitude": -122.418823,
+            "latitude": 37.774538
+        },
+        {
+            "id": 28872,
+            "locationId": "OFF61ORM",
+            "locationName": "ABCD 2",
+            "locationDetails": "Sam’s Workspace",
+            "locationType": "Office",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": true,
+            "subscriptionActive": false
+        },
+        {
+            "id": 76924,
+            "locationId": "BUS4ACHT",
+            "locationName": "Business Workspace",
+            "locationDetails": "Business Workspace",
+            "locationType": "Business",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "11 Van Ness Avenue",
+                "addressLine2": "",
+                "city": "San Francisco",
+                "state": "CA",
+                "zip": "94102"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": false,
+            "subscriptionActive": false,
+            "longitude": -122.418823,
+            "latitude": 37.774538
+        },
+        {
+            "id": 23265,
+            "locationId": "GEN95CP7",
+            "locationName": "Creating General Workspace",
+            "locationDetails": "Something",
+            "locationType": "General",
+            "numberofDevices": 0,
+            "address": {
+                "addressLine1": "17219 M Street",
+                "city": "Omaha",
+                "state": "NE",
+                "zip": "68135"
+            },
+            "locationUserRole": "Owner",
+            "active": false,
+            "newLocation": true,
+            "subscriptionActive": false
+        }
+    ],
+    "numberOfLocations": 19
+}
